@@ -2,6 +2,8 @@
 
 <br />
 
+<h1>
+
 ```
   ██████╗ ███████╗       ██████╗ ███╗   ██╗███████╗
  ██╔═══██╗██╔════╝      ██╔═══██╗████╗  ██║██╔════╝
@@ -11,7 +13,9 @@
   ╚═════╝ ╚══════╝       ╚═════╝ ╚═╝  ╚═══╝╚══════╝
 ```
 
-### *An Open Specification for the AI-Native Operating System*
+</h1>
+
+<h3><i>An Open Specification for the AI-Native Operating System</i></h3>
 
 <br />
 

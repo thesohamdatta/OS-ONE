@@ -34,6 +34,7 @@
 ---
 
 ## What is OS-ONE?
+![os1](https://github.com/user-attachments/assets/6c180a65-3c12-4b0b-a69d-f4dea89bd7c9)
 
 OS-ONE is an **open specification** for the operating system that should exist — but doesn't yet.
 

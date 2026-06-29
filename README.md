@@ -358,51 +358,26 @@ This is not a philosophical distraction. It is a design constraint.
 
 ```
 os-one/
-│
-├── README.md                        ← You are here
-├── MANIFESTO.md                     ← Philosophical principles (long form)
-├── CONTRIBUTING.md                  ← How to contribute
-├── CODE_OF_CONDUCT.md               ← Community standards
-├── LICENSE                          ← Apache 2.0
-│
-├── spec/                            ← Layer-by-layer specifications
-│   ├── L0-kernel/
-│   │   └── SPEC.md
-│   ├── L1-perception/
-│   │   └── SPEC.md
-│   ├── L2-context-engine/
-│   │   ├── SPEC.md
-│   │   └── memory-model.md
-│   ├── L3-language-shell/
-│   │   └── SPEC.md
-│   ├── L4-agent-runtime/
-│   │   ├── SPEC.md
-│   │   └── agent-contract-schema.yaml
-│   ├── L5-capability-mesh/
-│   │   └── SPEC.md
-│   └── L6-ethics-kernel/
-│       ├── SPEC.md
-│       └── consent-gates.md
-│
-├── rfcs/                            ← Community proposals
-│   ├── README.md                    ← RFC process explained
-│   ├── template.md                  ← Copy this to start an RFC
-│   ├── 0001-context-engine-schema.md
-│   └── 0002-agent-contract-format.md
-│
-├── research/                        ← Curated reading list by layer
+├── README.md
+├── MANIFESTO.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── assets/
 │   ├── README.md
-│   ├── ai-os-papers.md
-│   ├── context-memory.md
-│   ├── ethics-governance.md
-│   └── prior-art.md
-│
-├── prototypes/                      ← Reference implementations
-│   └── README.md                    ← How to submit a prototype
-│
-└── discussions/                     ← Open philosophical & technical questions
+│   ├── images/
+│   └── video/
+├── spec/
+│   ├── README.md
+│   └── whitepaper/
+├── research/
+│   ├── README.md
+│   ├── papers/
+│   ├── references/
+│   ├── prompts/
+│   └── source/
+└── rfcs/
     ├── README.md
-    └── on-consciousness.md
+    └── template.md
 ```
 
 ---
